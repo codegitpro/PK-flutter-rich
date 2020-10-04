@@ -11,7 +11,7 @@ void main() {
           ),
           body: Center(
             child: Image(
-              image: NetworkImage("https://i.ibb.co/4YN6x7R/original.jpg"),
+              image: NetworkImage("images/original.jpeg"),
             ),
           )),
     ),
